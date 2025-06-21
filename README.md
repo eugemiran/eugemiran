@@ -4,6 +4,15 @@ I'm a **Staff Frontend Engineer** based in **Uruguay**, with 6+ years of experie
 
 ---
 
+## 🌱 A Bit About Me
+
+When I'm not coding, I'm likely:
+- 🏸 Practicing tennis (beginner but loving it!)
+- 🗺️ Planning my next trip — recently: 🇹🇭Thailand and 🇵🇹 Portugal
+- 💬 Talking about frontend performance or JavaScript architecture at local meetups
+
+---
+
 ## 🛠️ Tech I Use & Love
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
@@ -27,15 +36,6 @@ My final degree project, combining climate data analysis with ML to contribute t
 
 ## 🧠 Currently Learning
 Diving deeper AI, exploring it tools, and potential real-world applications.
-
----
-
-## 🌱 A Bit About Me
-
-When I'm not coding, I'm likely:
-- 🏸 Practicing tennis (beginner but loving it!)
-- 🗺️ Planning my next trip — recently: 🇹🇭Thailand and 🇵🇹 Portugal
-- 💬 Talking about frontend performance or JavaScript architecture at local meetups
 
 ---
 
