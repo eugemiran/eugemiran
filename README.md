@@ -10,7 +10,6 @@ I'm a **Staff Frontend Engineer** based in **Uruguay**, with 6+ years of experie
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 
